@@ -1,0 +1,61 @@
+# ============================================================
+# Archivos temporales del sistema operativo
+# ============================================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ============================================================
+# Python
+# ============================================================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# ============================================================
+# Datos crudos Excel
+# ============================================================
+# Se conserva la carpeta 00_datos_crudos, pero no se suben
+# los archivos Excel originales por tamaño y trazabilidad.
+00_datos_crudos/**/*.xls
+00_datos_crudos/**/*.xlsx
+00_datos_crudos/**/*.xlsm
+
+# Archivos temporales de Excel
+~$*.xls
+~$*.xlsx
+~$*.xlsm
+00_datos_crudos/**/~$*.xls
+00_datos_crudos/**/~$*.xlsx
+00_datos_crudos/**/~$*.xlsm
+
+# ============================================================
+# Archivos comprimidos de datos crudos
+# ============================================================
+00_datos_crudos/**/*.zip
+00_datos_crudos/**/*.rar
+00_datos_crudos/**/*.7z
+
+# ============================================================
+# Logs y archivos temporales
+# ============================================================
+*.log
+*.tmp
+*.bak
+
+# ============================================================
+# Configuraciones locales
+# ============================================================
+.env
+.env.*

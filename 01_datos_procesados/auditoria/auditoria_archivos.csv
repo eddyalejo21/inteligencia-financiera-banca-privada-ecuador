@@ -1,0 +1,206 @@
+﻿archivo_origen,archivo_nombre,extension,periodo,fecha_corte,celda_fecha,valor_fecha_original,hoja_balance,metodo_balance,hojas_indicadores,estado,detalle
+00_datos_crudos\BOL BANCOS PRIVADOS 30062015 act.xlsx,BOL BANCOS PRIVADOS 30062015 act.xlsx,.xlsx,2015-06,2015-06-30,A4,2015-06-30 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\BOL BANCOS PRIVADOS 30112014.xlsx,BOL BANCOS PRIVADOS 30112014.xlsx,.xlsx,2014-11,2014-11-30,B4,2014-11-30 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 162
+00_datos_crudos\BOL BANCOS PRIVADOS 28022015 act.xlsx,BOL BANCOS PRIVADOS 28022015 act.xlsx,.xlsx,2015-02,2015-02-28,B4,2015-02-28 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\BOL BANCOS PRIVADOS 30072015 act.xlsx,BOL BANCOS PRIVADOS 30072015 act.xlsx,.xlsx,2015-07,2015-07-31,A4,2015-07-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\BOL BANCOS PRIVADOS 30092014.xlsx,BOL BANCOS PRIVADOS 30092014.xlsx,.xlsx,2014-09,2014-09-30,B4,2014-09-30 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 162
+00_datos_crudos\BOL BANCOS PRIVADOS 30042015 act.xlsx,BOL BANCOS PRIVADOS 30042015 act.xlsx,.xlsx,2015-04,2015-04-30,B4,2015-04-30 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\BOL BANCOS PRIVADOS 31032015 act.xlsx,BOL BANCOS PRIVADOS 31032015 act.xlsx,.xlsx,2015-03,2015-03-31,B4,2015-03-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\BOL BANCOS PRIVADOS 31052015 act.xlsx,BOL BANCOS PRIVADOS 31052015 act.xlsx,.xlsx,2015-05,2015-05-31,B4,2015-05-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\BOL BANCOS PRIVADOS 31012015 act.xlsx,BOL BANCOS PRIVADOS 31012015 act.xlsx,.xlsx,2015-01,2015-01-31,B4,2015-01-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\BOL BANCOS PRIVADOS 31122014.xlsx,BOL BANCOS PRIVADOS 31122014.xlsx,.xlsx,2014-12,2014-12-31,B4,2014-12-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 162
+00_datos_crudos\BOL BANCOS PRIVADOS 31082014.xlsm,BOL BANCOS PRIVADOS 31082014.xlsm,.xlsm,2014-08,2014-08-31,B4,2014-08-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 162
+00_datos_crudos\BOL BANCOS PRIVADOS 31102014.xlsx,BOL BANCOS PRIVADOS 31102014.xlsx,.xlsx,2014-10,2014-10-31,B4,2014-10-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 162
+00_datos_crudos\BOL BCOS PRIVADOS 201509.xlsx,BOL BCOS PRIVADOS 201509.xlsx,.xlsx,2015-09,2015-09-30,B4,2015-09-30 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 132
+00_datos_crudos\BOL BCOS PRIVADOS 201508.xlsx,BOL BCOS PRIVADOS 201508.xlsx,.xlsx,2015-08,2015-08-31,B4,2015-08-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 132
+00_datos_crudos\BOL BCOS PRIVADOS 201510.xlsx,BOL BCOS PRIVADOS 201510.xlsx,.xlsx,2015-10,2015-10-31,B4,2015-10-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 132
+00_datos_crudos\BOL BCOS PRIVADOS 201512.xlsx,BOL BCOS PRIVADOS 201512.xlsx,.xlsx,2015-12,2015-12-31,B4,2015-12-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 132
+00_datos_crudos\BOL BCOS PRIVADOS 201511.xlsx,BOL BCOS PRIVADOS 201511.xlsx,.xlsx,2015-11,2015-11-30,B4,2015-11-30 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 132
+00_datos_crudos\BOL-FIN-BCOS-DIC-20-2.xlsx,BOL-FIN-BCOS-DIC-20-2.xlsx,.xlsx,2020-12,2020-12-31,B4,2020-12-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOL200903BCOS.xls,BOL200903BCOS.xls,.xls,2009-03,2009-03-31,B4,2009-03-31 00:00:00,BAL SAB II,contenido_estado_situacion,INDIC,ok,Registros extraídos: 150
+00_datos_crudos\BOL200907BCOS.xls,BOL200907BCOS.xls,.xls,2009-07,2009-07-31,B4,2009-07-31 00:00:00,BAL SAB II,contenido_estado_situacion,INDIC,ok,Registros extraídos: 150
+00_datos_crudos\BOL201104B PLANTILLA web.xls,BOL201104B PLANTILLA web.xls,.xls,2011-04,2011-04-30,B4,2011-04-30 00:00:00,BAL SAB II,contenido_estado_situacion,INDIC,ok,Registros extraídos: 150
+00_datos_crudos\BOL201102B PLANTILLA web .xls,BOL201102B PLANTILLA web .xls,.xls,2011-02,2011-02-28,B4,2011-02-28 00:00:00,BAL SAB II,contenido_estado_situacion,INDIC,ok,Registros extraídos: 150
+00_datos_crudos\BOL201103B WEB.xls,BOL201103B WEB.xls,.xls,2011-03,2011-03-31,B4,2011-03-31 00:00:00,BAL SAB II,contenido_estado_situacion,INDIC,ok,Registros extraídos: 150
+00_datos_crudos\BOL201105B PLANTILLA web.xls,BOL201105B PLANTILLA web.xls,.xls,2011-05,2011-05-31,B4,2011-05-31 00:00:00,BAL SAB II,contenido_estado_situacion,INDIC,ok,Registros extraídos: 150
+00_datos_crudos\BOL201107B PLANTILLA web 2.xls,BOL201107B PLANTILLA web 2.xls,.xls,2011-07,2011-07-31,B4,2011-07-31 00:00:00,BAL SAB II,contenido_estado_situacion,INDIC,ok,Registros extraídos: 150
+00_datos_crudos\BOL201110B PLANTILLA FINAL WEB 2.xls,BOL201110B PLANTILLA FINAL WEB 2.xls,.xls,2011-10,2011-10-31,B4,2011-10-31 00:00:00,BAL,contenido_estado_situacion,INDIC,ok,Registros extraídos: 156
+00_datos_crudos\BOL201201B PLANTILLA web 2.xls,BOL201201B PLANTILLA web 2.xls,.xls,2012-01,2012-01-31,B4,2012-01-31 00:00:00,BAL,contenido_estado_situacion,INDIC,ok,Registros extraídos: 156
+00_datos_crudos\BOL201206 PLANTILLA web .xls,BOL201206 PLANTILLA web .xls,.xls,2012-06,2012-06-30,B4,2012-06-30 00:00:00,BAL,contenido_estado_situacion,INDIC,ok,Registros extraídos: 156
+00_datos_crudos\BOL_BANCOS PRIVADOS_ABRIL_2012.xls,BOL_BANCOS PRIVADOS_ABRIL_2012.xls,.xls,2012-04,2012-04-30,B4,2012-04-30 00:00:00,BAL,contenido_estado_situacion,INDIC,ok,Registros extraídos: 156
+00_datos_crudos\BOL201207 PLANTILLA web 3 .xls,BOL201207 PLANTILLA web 3 .xls,.xls,2012-07,2012-07-31,B4,2012-07-31 00:00:00,BAL,contenido_estado_situacion,INDIC,ok,Registros extraídos: 156
+00_datos_crudos\BOL_BANCOS PRIVADOS_DIC_2011_Actualizada.xls,BOL_BANCOS PRIVADOS_DIC_2011_Actualizada.xls,.xls,2011-12,2011-12-31,B4,2011-12-31 00:00:00,BAL,contenido_estado_situacion,INDIC,ok,Registros extraídos: 156
+00_datos_crudos\BOL_BANCOS PRIVADOS_NOV_2011_Actualizada.xls,BOL_BANCOS PRIVADOS_NOV_2011_Actualizada.xls,.xls,2011-11,2011-11-30,B4,2011-11-30 00:00:00,BAL,contenido_estado_situacion,INDIC,ok,Registros extraídos: 156
+00_datos_crudos\BOL-FIN-BCOS-OCT-20.xlsm,BOL-FIN-BCOS-OCT-20.xlsm,.xlsm,2020-10,2020-10-31,B4,2020-10-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOL_BP_ABR_ 2017.xlsx,BOL_BP_ABR_ 2017.xlsx,.xlsx,2017-04,2017-04-30,B4,2017-04-30 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\BOL_BP_ABRIL 2019.xlsx,BOL_BP_ABRIL 2019.xlsx,.xlsx,2019-04,2019-04-30,B4,2019-04-30 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOL_BP_AGOSTO 2018.xlsx,BOL_BP_AGOSTO 2018.xlsx,.xlsx,2018-08,2018-08-31,B4,2018-08-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOL_BP_ABRIL 2018.xlsx,BOL_BP_ABRIL 2018.xlsx,.xlsx,2018-04,2018-04-30,B5,2018-04-30 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOL_BP_ABRIL 2020.xlsx,BOL_BP_ABRIL 2020.xlsx,.xlsx,2020-04,2020-04-30,B4,2020-04-30 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOL_BP_AGOSTO 2019.xlsx,BOL_BP_AGOSTO 2019.xlsx,.xlsx,2019-08,2019-08-31,B4,2019-08-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOL_BP_AGOSTO_ 2017.xlsx,BOL_BP_AGOSTO_ 2017.xlsx,.xlsx,2017-08,2017-08-31,B4,2017-08-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOL_BP_DIC_ 2016.xlsx,BOL_BP_DIC_ 2016.xlsx,.xlsx,2016-12,2016-12-31,B4,2016-12-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\BOL_BP_DICIEMBRE 2018.xlsx,BOL_BP_DICIEMBRE 2018.xlsx,.xlsx,2018-12,2018-12-31,B4,2018-12-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOL_BP_DICIEMBRE_2017.xlsx,BOL_BP_DICIEMBRE_2017.xlsx,.xlsx,2017-12,2017-12-31,B4,2017-12-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOL_BP_DICIEMBRE 2019.xlsx,BOL_BP_DICIEMBRE 2019.xlsx,.xlsx,2019-12,2019-12-31,B4,2019-12-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOL_BP_ENE_ 2017.xlsx,BOL_BP_ENE_ 2017.xlsx,.xlsx,2017-01,2017-01-31,B4,2017-01-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\BOL_BP_ENERO.xlsx,BOL_BP_ENERO.xlsx,.xlsx,2019-01,2019-01-31,B4,2019-01-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOL_BP_ENERO 2020.xlsx,BOL_BP_ENERO 2020.xlsx,.xlsx,2020-01,2020-01-31,B4,2020-01-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOL_BP_ENERO_2018.xlsx,BOL_BP_ENERO_2018.xlsx,.xlsx,2018-01,2018-01-31,B4,2018-01-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOL_BP_FEB_ 2017.xlsx,BOL_BP_FEB_ 2017.xlsx,.xlsx,2017-02,2017-02-28,B4,2017-02-28 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\BOL_BP_FEBRERO 2018.xlsx,BOL_BP_FEBRERO 2018.xlsx,.xlsx,2018-02,2018-02-28,B4,2018-02-28 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOL_BP_FEBRERO 2019.xlsx,BOL_BP_FEBRERO 2019.xlsx,.xlsx,2019-02,2019-02-28,B4,2019-02-28 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOL_BP_FEBRERO 2020.xlsx,BOL_BP_FEBRERO 2020.xlsx,.xlsx,2020-02,2020-02-29,B4,2020-02-29 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOL_BP_JULIO 2018.xlsx,BOL_BP_JULIO 2018.xlsx,.xlsx,2018-07,2018-07-31,B4,2018-07-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOL_BP_JUN 2016.xlsm,BOL_BP_JUN 2016.xlsm,.xlsm,2016-06,2016-06-30,B4,2016-06-30 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 132
+00_datos_crudos\BOL_BP_JULIO 2019.xlsx,BOL_BP_JULIO 2019.xlsx,.xlsx,2019-07,2019-07-31,B4,2019-07-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOL_BP_JULIO 2020.xlsx,BOL_BP_JULIO 2020.xlsx,.xlsx,2020-07,2020-07-31,B4,2020-07-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOL_BP_JUNIO 2018.xlsx,BOL_BP_JUNIO 2018.xlsx,.xlsx,2018-06,2018-06-30,B4,2018-06-30 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOL_BP_MAR_ 2017.xlsx,BOL_BP_MAR_ 2017.xlsx,.xlsx,2017-03,2017-03-31,B4,2017-03-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\BOL_BP_JUNIO 2019.xlsx,BOL_BP_JUNIO 2019.xlsx,.xlsx,2019-06,2019-06-30,B4,2019-06-30 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOL_BP_JUNIO 2020.xlsx,BOL_BP_JUNIO 2020.xlsx,.xlsx,2020-06,2020-06-30,B4,2020-06-30 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOL_BP_MARZO 2020.xlsx,BOL_BP_MARZO 2020.xlsx,.xlsx,2020-03,2020-03-31,B4,2020-03-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOL_BP_MARZO 2018.xlsx,BOL_BP_MARZO 2018.xlsx,.xlsx,2018-03,2018-03-31,B4,2018-03-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOL_BP_MAY_ 2017.xlsx,BOL_BP_MAY_ 2017.xlsx,.xlsx,2017-05,2017-05-31,B4,2017-05-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\BOL_BP_MAYO 2018.xlsx,BOL_BP_MAYO 2018.xlsx,.xlsx,2018-05,2018-05-31,B4,2018-05-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOL_BP_NOV 2016.xlsx,BOL_BP_NOV 2016.xlsx,.xlsx,2016-11,2016-11-30,B4,2016-11-30 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\BOL_BP_MAYO 2019.xlsx,BOL_BP_MAYO 2019.xlsx,.xlsx,2019-05,2019-05-31,B4,2019-05-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOL_BP_MAYO 2020.xlsx,BOL_BP_MAYO 2020.xlsx,.xlsx,2020-05,2020-05-31,B4,2020-05-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOL_BP_NOVIEMBRE 2018.xlsx,BOL_BP_NOVIEMBRE 2018.xlsx,.xlsx,2018-11,2018-11-30,B4,2018-11-30 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOL_BP_NOVIEMBRE 2019.xlsx,BOL_BP_NOVIEMBRE 2019.xlsx,.xlsx,2019-11,2019-11-30,B4,2019-11-30 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOL_BP_OCT 2016.xlsx,BOL_BP_OCT 2016.xlsx,.xlsx,2016-10,2016-10-31,B4,2016-10-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\BOL_BP_NOVIEMBRE_2017.xlsx,BOL_BP_NOVIEMBRE_2017.xlsx,.xlsx,2017-11,2017-11-30,B4,2017-11-30 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOL_BP_OCTUBRE 2018.xlsx,BOL_BP_OCTUBRE 2018.xlsx,.xlsx,2018-10,2018-10-31,B4,2018-10-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOL_BP_OCTUBRE 2019.xlsx,BOL_BP_OCTUBRE 2019.xlsx,.xlsx,2019-10,2019-10-31,B4,2019-10-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOL_BP_OCTUBRE_2017.xlsx,BOL_BP_OCTUBRE_2017.xlsx,.xlsx,2017-10,2017-10-31,B4,2017-10-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOL_BP_SEP 2016.xlsm,BOL_BP_SEP 2016.xlsm,.xlsm,2016-09,2016-09-30,B4,2016-09-30 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 132
+00_datos_crudos\BOL_FIN_BCOS_ABR_09.xls,BOL_FIN_BCOS_ABR_09.xls,.xls,2009-04,2009-04-30,B4,2009-04-30 00:00:00,BAL SAB II,contenido_estado_situacion,"INDIC (2), INDIC",ok,Registros extraídos: 150
+00_datos_crudos\BOL_FIN_BCOS_ABR_10 A.xls,BOL_FIN_BCOS_ABR_10 A.xls,.xls,2010-04,2010-04-30,B4,2010-04-30 00:00:00,BAL SAB II,contenido_estado_situacion,INDIC,ok,Registros extraídos: 150
+00_datos_crudos\BOL_FIN_BCOS_AGO_09 A.xls,BOL_FIN_BCOS_AGO_09 A.xls,.xls,2009-08,2009-08-31,B4,2009-08-31 00:00:00,BAL SAB II,contenido_estado_situacion,INDIC,ok,Registros extraídos: 150
+00_datos_crudos\BOL_BP_SEPTIEMBRE 2018.xlsx,BOL_BP_SEPTIEMBRE 2018.xlsx,.xlsx,2018-09,2018-09-30,B4,2018-09-30 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOL_BP_SEPTIEMBRE 2019.xlsx,BOL_BP_SEPTIEMBRE 2019.xlsx,.xlsx,2019-09,2019-09-30,B4,2019-09-30 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOL_BP_SEPTIEMBRE_2017.xlsx,BOL_BP_SEPTIEMBRE_2017.xlsx,.xlsx,2017-09,2017-09-30,B4,2017-09-30 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOL_FIN_BCOS_AGO_10.xls,BOL_FIN_BCOS_AGO_10.xls,.xls,2010-08,2010-08-31,B4,2010-08-31 00:00:00,BAL SAB II,contenido_estado_situacion,INDIC,ok,Registros extraídos: 150
+00_datos_crudos\BOL_BP_SEP_2020 - web.xlsx,BOL_BP_SEP_2020 - web.xlsx,.xlsx,2020-09,2020-09-30,B4,2020-09-30 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOL_FIN_BCOS_AGO_11.xls,BOL_FIN_BCOS_AGO_11.xls,.xls,2011-08,2011-08-31,B4,2011-08-31 00:00:00,BAL SAB II,contenido_estado_situacion,INDIC,ok,Registros extraídos: 150
+00_datos_crudos\BOL_FIN_BCOS_DIC_09 AAA.xls,BOL_FIN_BCOS_DIC_09 AAA.xls,.xls,2009-12,2009-12-31,B4,2009-12-31 00:00:00,BAL SAB II,contenido_estado_situacion,INDIC,ok,Registros extraídos: 150
+00_datos_crudos\BOL_FIN_BCOS_DIC_10 A.xls,BOL_FIN_BCOS_DIC_10 A.xls,.xls,2010-12,2010-12-31,B4,2010-12-31 00:00:00,BAL SAB II,contenido_estado_situacion,INDIC,ok,Registros extraídos: 150
+00_datos_crudos\BOL_FIN_BCOS_ENE_10 AA.xls,BOL_FIN_BCOS_ENE_10 AA.xls,.xls,2010-01,2010-01-31,B4,2010-01-31 00:00:00,BAL SAB II,contenido_estado_situacion,INDIC,ok,Registros extraídos: 150
+00_datos_crudos\BOL_FIN_BCOS_ABR_16.xlsm,BOL_FIN_BCOS_ABR_16.xlsm,.xlsm,2016-04,2016-04-30,B4,2016-04-30 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 132
+00_datos_crudos\BOL_FIN_BCOS_ENE_11.xls,BOL_FIN_BCOS_ENE_11.xls,.xls,2011-01,2011-01-31,B4,2011-01-31 00:00:00,BAL SAB II,contenido_estado_situacion,INDIC,ok,Registros extraídos: 150
+00_datos_crudos\BOL_FIN_BCOS_FEB_10 AA.xls,BOL_FIN_BCOS_FEB_10 AA.xls,.xls,2010-02,2010-02-28,B4,2010-02-28 00:00:00,BAL SAB II,contenido_estado_situacion,INDIC,ok,Registros extraídos: 150
+00_datos_crudos\BOL_FIN_BCOS_FEB_12.xls,BOL_FIN_BCOS_FEB_12.xls,.xls,2012-02,2012-02-29,B4,2012-02-29 00:00:00,BAL,contenido_estado_situacion,INDIC,ok,Registros extraídos: 156
+00_datos_crudos\BOL_FIN_BCOS_JUL_10.xls,BOL_FIN_BCOS_JUL_10.xls,.xls,2010-07,2010-07-31,B4,2010-07-31 00:00:00,BAL SAB II,contenido_estado_situacion,INDIC,ok,Registros extraídos: 150
+00_datos_crudos\BOL_FIN_BCOS_AGO_12.xlsx,BOL_FIN_BCOS_AGO_12.xlsx,.xlsx,2012-08,2012-08-31,B4,2012-08-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 156
+00_datos_crudos\BOL_FIN_BCOS_JUN_09 A.xls,BOL_FIN_BCOS_JUN_09 A.xls,.xls,2009-06,2009-06-30,B4,2009-06-30 00:00:00,BAL SAB II,contenido_estado_situacion,INDIC,ok,Registros extraídos: 150
+00_datos_crudos\BOL_FIN_BCOS_JUN_10.xls,BOL_FIN_BCOS_JUN_10.xls,.xls,2010-06,2010-06-30,B4,2010-06-30 00:00:00,BAL SAB II,contenido_estado_situacion,INDIC,ok,Registros extraídos: 150
+00_datos_crudos\BOL_FIN_BCOS_AGO_2016.xlsx,BOL_FIN_BCOS_AGO_2016.xlsx,.xlsx,2016-08,2016-08-31,B4,2016-08-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 132
+00_datos_crudos\BOL_FIN_BCOS_JUN_11.xls,BOL_FIN_BCOS_JUN_11.xls,.xls,2011-06,2011-06-30,B4,2011-06-30 00:00:00,BAL SAB II,contenido_estado_situacion,INDIC,ok,Registros extraídos: 150
+00_datos_crudos\BOL_FIN_BCOS_MAR_12.xls,BOL_FIN_BCOS_MAR_12.xls,.xls,2012-03,2012-03-31,B4,2012-03-31 00:00:00,BAL,contenido_estado_situacion,INDIC,ok,Registros extraídos: 156
+00_datos_crudos\BOL_FIN_BCOS_MAR_10 A.xls,BOL_FIN_BCOS_MAR_10 A.xls,.xls,2010-03,2010-03-31,B4,2010-03-31 00:00:00,BAL SAB II,contenido_estado_situacion,INDIC,ok,Registros extraídos: 150
+00_datos_crudos\BOL_FIN_BCOS_MAY_09.xls,BOL_FIN_BCOS_MAY_09.xls,.xls,2009-05,2009-05-31,B4,2009-05-31 00:00:00,BAL SAB II,contenido_estado_situacion,INDIC,ok,Registros extraídos: 150
+00_datos_crudos\BOL_FIN_BCOS_MAY_10.xls,BOL_FIN_BCOS_MAY_10.xls,.xls,2010-05,2010-05-31,B4,2010-05-31 00:00:00,BAL SAB II,contenido_estado_situacion,INDIC,ok,Registros extraídos: 150
+00_datos_crudos\BOL_FIN_BCOS_MAY_12.xls,BOL_FIN_BCOS_MAY_12.xls,.xls,2012-05,2012-05-31,B4,2012-05-31 00:00:00,BAL,contenido_estado_situacion,INDIC,ok,Registros extraídos: 156
+00_datos_crudos\BOL_FIN_BCOS_NOV_09 AA.xls,BOL_FIN_BCOS_NOV_09 AA.xls,.xls,2009-11,2009-11-30,B4,2009-11-30 00:00:00,BAL SAB II,contenido_estado_situacion,INDIC,ok,Registros extraídos: 150
+00_datos_crudos\BOL_FIN_BCOS_NOV_10.xls,BOL_FIN_BCOS_NOV_10.xls,.xls,2010-11,2010-11-30,B4,2010-11-30 00:00:00,BAL SAB II,contenido_estado_situacion,INDIC,ok,Registros extraídos: 150
+00_datos_crudos\BOL_FIN_BCOS_JUL_16.xlsm,BOL_FIN_BCOS_JUL_16.xlsm,.xlsm,2016-07,2016-07-31,B4,2016-07-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 132
+00_datos_crudos\BOL_FIN_BCOS_OCT_10.xls,BOL_FIN_BCOS_OCT_10.xls,.xls,2010-10,2010-10-31,B4,2010-10-31 00:00:00,BAL SAB II,contenido_estado_situacion,INDIC,ok,Registros extraídos: 150
+00_datos_crudos\BOL_FIN_BCOS_SEP_09 A.xls,BOL_FIN_BCOS_SEP_09 A.xls,.xls,2009-09,2009-09-30,B4,2009-09-30 00:00:00,BAL SAB II,contenido_estado_situacion,INDIC,ok,Registros extraídos: 150
+00_datos_crudos\BOL_FIN_BCOS_JUN_17.xlsx,BOL_FIN_BCOS_JUN_17.xlsx,.xlsx,2017-06,2017-06-30,B4,2017-06-30 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOL_FIN_BCOS_SEPT_10.xls,BOL_FIN_BCOS_SEPT_10.xls,.xls,2010-09,2010-09-30,B4,2010-09-30 00:00:00,BAL SAB II,contenido_estado_situacion,INDIC,ok,Registros extraídos: 150
+00_datos_crudos\BOL_FIN_BCOS_SEPT_11.xls,BOL_FIN_BCOS_SEPT_11.xls,.xls,2011-09,2011-09-30,B4,2011-09-30 00:00:00,BAL SAB II,contenido_estado_situacion,INDIC,ok,Registros extraídos: 156
+00_datos_crudos\BOL_FIN_OCT_09.xls,BOL_FIN_OCT_09.xls,.xls,2009-10,2009-10-31,B4,2009-10-31 00:00:00,BAL SAB II,contenido_estado_situacion,INDIC,ok,Registros extraídos: 150
+00_datos_crudos\BOL_FIN_BCOS_MAY_16.xlsm,BOL_FIN_BCOS_MAY_16.xlsm,.xlsm,2016-05,2016-05-31,B4,2016-05-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 132
+00_datos_crudos\BOL_FIN_BCOS_NOV_12.xlsx,BOL_FIN_BCOS_NOV_12.xlsx,.xlsx,2012-11,2012-11-30,B4,2012-11-30 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 156
+00_datos_crudos\BOL_FIN_BCOS_SEPT_12.xlsx,BOL_FIN_BCOS_SEPT_12.xlsx,.xlsx,2012-09,2012-09-30,B4,2012-09-30 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 156
+00_datos_crudos\BOL_MENSUAL_ BPRIVADA_ABR_2021_web2.xlsm,BOL_MENSUAL_ BPRIVADA_ABR_2021_web2.xlsm,.xlsm,2021-04,2021-04-30,B4,2021-04-30 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOL_MENSUAL_ BPRIVADA_AGO_2020_ web.xlsx,BOL_MENSUAL_ BPRIVADA_AGO_2020_ web.xlsx,.xlsx,2020-08,2020-08-31,B4,2020-08-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOL_MENSUAL_ BPRIVADA_ENE_2021 _web2.xlsm,BOL_MENSUAL_ BPRIVADA_ENE_2021 _web2.xlsm,.xlsm,2021-01,2021-01-31,B4,2021-01-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOL_MENSUAL_ BPRIVADA_FEB_2021_web2.xlsx,BOL_MENSUAL_ BPRIVADA_FEB_2021_web2.xlsx,.xlsx,2021-02,2021-02-28,B4,2021-02-28 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOL_MENSUAL_ BPRIVADA_MAR_2021_web2.xlsm,BOL_MENSUAL_ BPRIVADA_MAR_2021_web2.xlsm,.xlsm,2021-03,2021-03-31,B4,2021-03-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOL_MENSUAL_ BPRIVADA_NOV_2020 _web.xlsm,BOL_MENSUAL_ BPRIVADA_NOV_2020 _web.xlsm,.xlsm,2020-11,2020-11-30,B4,2020-11-30 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOL_MENSUAL_BPRIVADA_JUN_2021_web2.xlsx,BOL_MENSUAL_BPRIVADA_JUN_2021_web2.xlsx,.xlsx,2021-06,2021-06-30,B4,2021-06-30 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOL_MENSUAL_BPRIVADA_AGO_2021_web2.xlsx,BOL_MENSUAL_BPRIVADA_AGO_2021_web2.xlsx,.xlsx,2021-08,2021-08-31,B4,2021-08-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOL_MENSUAL_BPRIVADA_JUL_2021_web2.xlsx,BOL_MENSUAL_BPRIVADA_JUL_2021_web2.xlsx,.xlsx,2021-07,2021-07-31,B4,2021-07-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOL_MENSUAL_BPRIVADA_MAY_2021_web2.xlsx,BOL_MENSUAL_BPRIVADA_MAY_2021_web2.xlsx,.xlsx,2021-05,2021-05-31,B4,2021-05-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BP_BOL_2008_01 con informaciÓ©én reprocesada 06 ene 10.xls,BP_BOL_2008_01 con informaciÓ©én reprocesada 06 ene 10.xls,.xls,2009-01,2009-01-31,B4,2009-01-31 00:00:00,BAL SAB II,contenido_estado_situacion,INDIC,ok,Registros extraídos: 150
+00_datos_crudos\BOL_MENSUAL_BPRIVADA_OCT_2021_web3.xlsx,BOL_MENSUAL_BPRIVADA_OCT_2021_web3.xlsx,.xlsx,2021-10,2021-10-31,B4,2021-10-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BP_BOL_2009_02 rectificado.xls,BP_BOL_2009_02 rectificado.xls,.xls,2009-02,2009-02-28,B4,2009-02-28 00:00:00,BAL SAB II,contenido_estado_situacion,INDIC,ok,Registros extraídos: 144
+00_datos_crudos\BOL_MENSUAL_BPRIVADA_SEP_2021_web3.xlsx,BOL_MENSUAL_BPRIVADA_SEP_2021_web3.xlsx,.xlsx,2021-09,2021-09-30,B4,2021-09-30 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BOLETIN BANCOS NOVIEMBRE 2022.xlsx,BOLETIN BANCOS NOVIEMBRE 2022.xlsx,.xlsx,2022-11,2022-11-30,B4,30/11/2022,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\BoletÔÇØn mensual BP Julio 2017.xlsx,BoletÔÇØn mensual BP Julio 2017.xlsx,.xlsx,2017-07,2017-07-31,B4,2017-07-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\FINANCIERO MENSUAL BANCA PRIVADA 2022_05_rev.xlsx,FINANCIERO MENSUAL BANCA PRIVADA 2022_05_rev.xlsx,.xlsx,2022-05,2022-05-31,B4,31/05/2022,BALANCE,nombre_balance,"INDICADORES, INDICADORES v",ok,Registros extraídos: 144
+00_datos_crudos\FINANCIERO MENSUAL BANCA PRIVADA 2022_06.xlsx,FINANCIERO MENSUAL BANCA PRIVADA 2022_06.xlsx,.xlsx,2022-06,2022-06-30,B4,30/06/2022,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\FINANCIERO MENSUAL BANCA PRIVADA 2022_04.xlsx,FINANCIERO MENSUAL BANCA PRIVADA 2022_04.xlsx,.xlsx,2022-04,2022-04-30,B4,30/04/2022,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\FINANCIERO MENSUAL BANCA PRIVADA 2022_07.xlsx,FINANCIERO MENSUAL BANCA PRIVADA 2022_07.xlsx,.xlsx,2022-07,2022-07-31,B4,31/07/2022,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\FINANCIERO MENSUAL BANCA PRIVADA 2022_02.xlsx,FINANCIERO MENSUAL BANCA PRIVADA 2022_02.xlsx,.xlsx,2022-02,2022-02-28,B4,28/02/2022,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 120
+00_datos_crudos\FINANCIERO MENSUAL BANCA PRIVADA 2022_08.xlsx,FINANCIERO MENSUAL BANCA PRIVADA 2022_08.xlsx,.xlsx,2022-08,2022-08-31,B4,31/08/2022,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\FINANCIERO MENSUAL BANCA PRIVADA 2022_09.xlsx,FINANCIERO MENSUAL BANCA PRIVADA 2022_09.xlsx,.xlsx,2022-09,2022-09-30,B4,30/09/2022,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\FINANCIERO MENSUAL BANCA PRIVADA 2023_01.xlsx,FINANCIERO MENSUAL BANCA PRIVADA 2023_01.xlsx,.xlsx,2023-01,2023-01-31,B4,31/01/2023,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\FINANCIERO MENSUAL BANCA PRIVADA 2022_10.xlsx,FINANCIERO MENSUAL BANCA PRIVADA 2022_10.xlsx,.xlsx,2022-10,2022-10-31,B4,31/10/2022,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\FINANCIERO MENSUAL BANCA PRIVADA 2022_12.xlsx,FINANCIERO MENSUAL BANCA PRIVADA 2022_12.xlsx,.xlsx,2022-12,2022-12-31,B4,31/12/2022,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\FINANCIERO MENSUAL BANCA PRIVADA 2023_02.xlsx,FINANCIERO MENSUAL BANCA PRIVADA 2023_02.xlsx,.xlsx,2023-02,2023-02-28,B4,28/02/2023,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\FINANCIERO MENSUAL BANCA PRIVADA 2023_03.xlsx,FINANCIERO MENSUAL BANCA PRIVADA 2023_03.xlsx,.xlsx,2023-03,2023-03-31,B4,31/03/2023,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\FINANCIERO MENSUAL BANCA PRIVADA 2023_04.xlsx,FINANCIERO MENSUAL BANCA PRIVADA 2023_04.xlsx,.xlsx,2023-04,2023-04-30,B4,30/04/2023,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\FINANCIERO MENSUAL BANCA PRIVADA 2023_05.xlsx,FINANCIERO MENSUAL BANCA PRIVADA 2023_05.xlsx,.xlsx,2023-05,2023-05-31,B4,31/05/2023,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\FINANCIERO MENSUAL BANCA PRIVADA 2023_06.xlsx,FINANCIERO MENSUAL BANCA PRIVADA 2023_06.xlsx,.xlsx,2023-06,2023-06-30,B4,30/06/2023,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\FINANCIERO MENSUAL BANCA PRIVADA 2023_07.xlsx,FINANCIERO MENSUAL BANCA PRIVADA 2023_07.xlsx,.xlsx,2023-07,2023-07-31,B4,31/07/2023,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\FINANCIERO MENSUAL BANCA PRIVADA 2023_08.xlsx,FINANCIERO MENSUAL BANCA PRIVADA 2023_08.xlsx,.xlsx,2023-08,2023-08-31,B4,31/08/2023,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\FINANCIERO MENSUAL BANCA PRIVADA 2023_09.xlsx,FINANCIERO MENSUAL BANCA PRIVADA 2023_09.xlsx,.xlsx,2023-09,2023-09-30,B4,30/09/2023,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\FINANCIERO MENSUAL BANCA PRIVADA 2023_10.xlsx,FINANCIERO MENSUAL BANCA PRIVADA 2023_10.xlsx,.xlsx,2023-10,2023-10-31,B4,31/10/2023,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\FINANCIERO MENSUAL BANCA PRIVADA 2023_11.xlsx,FINANCIERO MENSUAL BANCA PRIVADA 2023_11.xlsx,.xlsx,2023-11,2023-11-30,B4,30/11/2023,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\FINANCIERO MENSUAL BANCA PRIVADA 2023_12.xlsx,FINANCIERO MENSUAL BANCA PRIVADA 2023_12.xlsx,.xlsx,2023-12,2023-12-31,B4,31/12/2023,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\FINANCIERO MENSUAL BANCA PRIVADA 2024_01.xlsx,FINANCIERO MENSUAL BANCA PRIVADA 2024_01.xlsx,.xlsx,2024-01,2024-01-31,B4,31/01/2024,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\FINANCIERO MENSUAL BANCA PRIVADA 2024_02.xlsx,FINANCIERO MENSUAL BANCA PRIVADA 2024_02.xlsx,.xlsx,2024-02,2024-02-29,B4,29/02/2024,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\FINANCIERO MENSUAL BANCA PRIVADA 2024_03.xlsx,FINANCIERO MENSUAL BANCA PRIVADA 2024_03.xlsx,.xlsx,2024-03,2024-03-31,B4,31/03/2024,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\FINANCIERO MENSUAL BANCA PRIVADA 2024_05.xlsx,FINANCIERO MENSUAL BANCA PRIVADA 2024_05.xlsx,.xlsx,2024-05,2024-05-31,B4,31/05/2024,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\FINANCIERO MENSUAL BANCA PRIVADA 2024_04.xlsx,FINANCIERO MENSUAL BANCA PRIVADA 2024_04.xlsx,.xlsx,2024-04,2024-04-30,B4,30/04/2024,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\FINANCIERO MENSUAL BANCA PRIVADA 2024_06.xlsx,FINANCIERO MENSUAL BANCA PRIVADA 2024_06.xlsx,.xlsx,2024-06,2024-06-30,B4,30/06/2024,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\FINANCIERO MENSUAL BANCA PRIVADA 2024_07.xlsx,FINANCIERO MENSUAL BANCA PRIVADA 2024_07.xlsx,.xlsx,2024-07,2024-07-31,B4,31/07/2024,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\FINANCIERO MENSUAL BANCA PRIVADA 2024_08.xlsx,FINANCIERO MENSUAL BANCA PRIVADA 2024_08.xlsx,.xlsx,2024-08,2024-08-31,B4,31/08/2024,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\FINANCIERO MENSUAL BANCA PRIVADA 2024_09.xlsx,FINANCIERO MENSUAL BANCA PRIVADA 2024_09.xlsx,.xlsx,2024-09,2024-09-30,B4,30/09/2024,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\FINANCIERO MENSUAL BANCA PRIVADA 2024_10.xlsx,FINANCIERO MENSUAL BANCA PRIVADA 2024_10.xlsx,.xlsx,2024-10,2024-10-31,B4,31/10/2024,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\FINANCIERO MENSUAL BANCA PRIVADA 2024_11.xlsx,FINANCIERO MENSUAL BANCA PRIVADA 2024_11.xlsx,.xlsx,2024-11,2024-11-30,B4,30/11/2024,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\FINANCIERO MENSUAL BANCA PRIVADA 2024_12.xlsx,FINANCIERO MENSUAL BANCA PRIVADA 2024_12.xlsx,.xlsx,2024-12,2024-12-31,B4,31/12/2024,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\FINANCIERO MENSUAL BANCA PRIVADA 2025_01.xlsx,FINANCIERO MENSUAL BANCA PRIVADA 2025_01.xlsx,.xlsx,2025-01,2025-01-31,B4,31/01/2025,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\FINANCIERO MENSUAL BANCA PRIVADA 2025_02.xlsx,FINANCIERO MENSUAL BANCA PRIVADA 2025_02.xlsx,.xlsx,2025-02,2025-02-28,B4,28/02/2025,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\FINANCIERO MENSUAL BANCA PRIVADA 2025_03.xlsx,FINANCIERO MENSUAL BANCA PRIVADA 2025_03.xlsx,.xlsx,2025-03,2025-03-31,B4,31/03/2025,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\FINANCIERO MENSUAL BANCA PRIVADA 2025_04.xlsx,FINANCIERO MENSUAL BANCA PRIVADA 2025_04.xlsx,.xlsx,2025-04,2025-04-30,B4,30/04/2025,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\FINANCIERO MENSUAL BANCA PRIVADA 2025_05.xlsx,FINANCIERO MENSUAL BANCA PRIVADA 2025_05.xlsx,.xlsx,2025-05,2025-05-31,B4,31/05/2025,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\FINANCIERO MENSUAL BANCA PRIVADA 2025_06.xlsx,FINANCIERO MENSUAL BANCA PRIVADA 2025_06.xlsx,.xlsx,2025-06,2025-06-30,B4,30/06/2025,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\FINANCIERO MENSUAL BANCA PRIVADA 2025_07.xlsx,FINANCIERO MENSUAL BANCA PRIVADA 2025_07.xlsx,.xlsx,2025-07,2025-07-31,B4,31/07/2025,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\FINANCIERO MENSUAL BANCA PRIVADA 2025_08.xlsx,FINANCIERO MENSUAL BANCA PRIVADA 2025_08.xlsx,.xlsx,2025-08,2025-08-31,B4,31/08/2025,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\FINANCIERO MENSUAL BANCA PRIVADA 2025_09.xlsx,FINANCIERO MENSUAL BANCA PRIVADA 2025_09.xlsx,.xlsx,2025-09,2025-09-30,B4,30/09/2025,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\FINANCIERO MENSUAL BANCA PRIVADA 2025_10.xlsx,FINANCIERO MENSUAL BANCA PRIVADA 2025_10.xlsx,.xlsx,2025-10,2025-10-31,B4,31/10/2025,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\FINANCIERO MENSUAL BANCA PRIVADA 2025_12.xlsx,FINANCIERO MENSUAL BANCA PRIVADA 2025_12.xlsx,.xlsx,2025-12,2025-12-31,B4,31/12/2025,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\FINANCIERO MENSUAL BANCA PRIVADA 2025_11.xlsx,FINANCIERO MENSUAL BANCA PRIVADA 2025_11.xlsx,.xlsx,2025-11,2025-11-30,B4,30/11/2025,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\FINANCIERO MENSUAL BANCA PRIVADA 2026_01.xlsx,FINANCIERO MENSUAL BANCA PRIVADA 2026_01.xlsx,.xlsx,2026-01,2026-01-31,B4,31/01/2026,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\FINANCIERO MENSUAL BANCA PRIVADA 2026_02.xlsx,FINANCIERO MENSUAL BANCA PRIVADA 2026_02.xlsx,.xlsx,2026-02,2026-02-28,B4,28/02/2026,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\FINANCIERO MENSUAL BANCA PRIVADA 2026_03.xlsx,FINANCIERO MENSUAL BANCA PRIVADA 2026_03.xlsx,.xlsx,2026-03,2026-03-31,B4,31/03/2026,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 138
+00_datos_crudos\Mensual_BancaPrivada_mar22.xlsx,Mensual_BancaPrivada_mar22.xlsx,.xlsx,2022-03,2022-03-31,B4,31/03/2022,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\Mensual_BancaPrivada_dic21.xlsx,Mensual_BancaPrivada_dic21.xlsx,.xlsx,2021-12,2021-12-31,B4,31/12/2021,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 144
+00_datos_crudos\NUEVA PLANTILLA BCOS PRIVADOS 201210 web 2.xlsx,NUEVA PLANTILLA BCOS PRIVADOS 201210 web 2.xlsx,.xlsx,2012-10,2012-10-31,B4,2012-10-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 156
+00_datos_crudos\NUEVA PLANTILLA BCOS PRIVADOS 201212 web 5.xlsx,NUEVA PLANTILLA BCOS PRIVADOS 201212 web 5.xlsx,.xlsx,2012-12,2012-12-31,B4,2012-12-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 156
+00_datos_crudos\NUEVA PLANTILLA BCOS PRIVADOS 201301 web 2.xlsx,NUEVA PLANTILLA BCOS PRIVADOS 201301 web 2.xlsx,.xlsx,2013-01,2013-01-31,B4,2013-01-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 156
+00_datos_crudos\MENSUAL_BANCA_PRIVADA 2021_11.xlsx,MENSUAL_BANCA_PRIVADA 2021_11.xlsx,.xlsx,2021-11,2021-11-30,B4,30/11/2021,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 120
+00_datos_crudos\NUEVA PLANTILLA BCOS PRIVADOS 201302 FINAL COMPLETO WEB.xlsx,NUEVA PLANTILLA BCOS PRIVADOS 201302 FINAL COMPLETO WEB.xlsx,.xlsx,2013-02,2013-02-28,B4,2013-02-28 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 156
+00_datos_crudos\NUEVA PLANTILLA BCOS PRIVADOS 201305 M1 WEB.xlsx,NUEVA PLANTILLA BCOS PRIVADOS 201305 M1 WEB.xlsx,.xlsx,2013-05,2013-05-31,B4,2013-05-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 156
+00_datos_crudos\NUEVA PLANTILLA BCOS PRIVADOS 201304 M1 WEB.xlsx,NUEVA PLANTILLA BCOS PRIVADOS 201304 M1 WEB.xlsx,.xlsx,2013-04,2013-04-30,B4,2013-04-30 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 156
+00_datos_crudos\NUEVA PLANTILLA BCOS PRIVADOS 201303 web 2.xlsx,NUEVA PLANTILLA BCOS PRIVADOS 201303 web 2.xlsx,.xlsx,2013-03,2013-03-31,B4,2013-03-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 156
+00_datos_crudos\NUEVA PLANTILLA BCOS PRIVADOS 201307 M1 WEB.xlsx,NUEVA PLANTILLA BCOS PRIVADOS 201307 M1 WEB.xlsx,.xlsx,2013-07,2013-07-31,B4,2013-07-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 156
+00_datos_crudos\NUEVA PLANTILLA BCOS PRIVADOS 201306 M1 WEB.xlsx,NUEVA PLANTILLA BCOS PRIVADOS 201306 M1 WEB.xlsx,.xlsx,2013-06,2013-06-30,B4,2013-06-30 00:00:00,BALANCE,nombre_balance,"INDICADORES, VALID INDICADORES, INDIC MAF",ok,Registros extraídos: 156
+00_datos_crudos\NUEVA PLANTILLA BCOS PRIVADOS 201309 M1 WEB.xlsx,NUEVA PLANTILLA BCOS PRIVADOS 201309 M1 WEB.xlsx,.xlsx,2013-09,2013-09-30,B4,2013-09-30 00:00:00,BALANCE,nombre_balance,"INDICADORES, VALID INDICADORES, INDIC MAF",ok,Registros extraídos: 156
+00_datos_crudos\NUEVA PLANTILLA BCOS PRIVADOS 201311 web 3.xlsm,NUEVA PLANTILLA BCOS PRIVADOS 201311 web 3.xlsm,.xlsm,2013-11,2013-11-30,B4,2013-11-30 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 156
+00_datos_crudos\NUEVA PLANTILLA BCOS PRIVADOS 201308 M1 WEB.xlsx,NUEVA PLANTILLA BCOS PRIVADOS 201308 M1 WEB.xlsx,.xlsx,2013-08,2013-08-31,B4,2013-08-31 00:00:00,BALANCE,nombre_balance,"INDICADORES, VALID INDICADORES, INDIC MAF",ok,Registros extraídos: 156
+00_datos_crudos\NUEVA PLANTILLA BCOS PRIVADOS 201310 M1 WEB.xlsx,NUEVA PLANTILLA BCOS PRIVADOS 201310 M1 WEB.xlsx,.xlsx,2013-10,2013-10-31,B4,2013-10-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 156
+00_datos_crudos\NUEVA PLANTILLA BCOS PRIVADOS 201312 M1 WEB.xlsx,NUEVA PLANTILLA BCOS PRIVADOS 201312 M1 WEB.xlsx,.xlsx,2013-12,2013-12-31,B4,2013-12-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 156
+00_datos_crudos\NUEVA PLANTILLA BCOS PRIVADOS 201401 2 web 3.xlsm,NUEVA PLANTILLA BCOS PRIVADOS 201401 2 web 3.xlsm,.xlsm,2014-01,2014-01-31,B4,2014-01-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 156
+00_datos_crudos\NUEVA PLANTILLA BCOS PRIVADOS 201402 web 3.xlsm,NUEVA PLANTILLA BCOS PRIVADOS 201402 web 3.xlsm,.xlsm,2014-02,2014-02-28,B4,2014-02-28 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 156
+00_datos_crudos\NUEVA PLANTILLA BCOS PRIVADOS 201405 web.xlsm,NUEVA PLANTILLA BCOS PRIVADOS 201405 web.xlsm,.xlsm,2014-05,2014-05-31,B4,2014-05-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 162
+00_datos_crudos\NUEVA PLANTILLA BCOS PRIVADOS 201403 web 2.xlsm,NUEVA PLANTILLA BCOS PRIVADOS 201403 web 2.xlsm,.xlsm,2014-03,2014-03-31,B4,2014-03-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 162
+00_datos_crudos\NUEVA PLANTILLA BCOS PRIVADOS 201404 web.xlsm,NUEVA PLANTILLA BCOS PRIVADOS 201404 web.xlsm,.xlsm,2014-04,2014-04-30,B4,2014-04-30 00:00:00,BALANCE,nombre_balance,"INDICADORES, VALID INDICADORES, INDIC MAF",ok,Registros extraídos: 162
+00_datos_crudos\NUEVA PLANTILLA BCOS PRIVADOS 201406 WEB.xlsm,NUEVA PLANTILLA BCOS PRIVADOS 201406 WEB.xlsm,.xlsm,2014-06,2014-06-30,B4,2014-06-30 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 162
+00_datos_crudos\NUEVA PLANTILLA BCOS PRIVADOS 201407 web.xlsm,NUEVA PLANTILLA BCOS PRIVADOS 201407 web.xlsm,.xlsm,2014-07,2014-07-31,B4,2014-07-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 162
+00_datos_crudos\NUEVA PLANTILLA BOL_BP_ENE 2016 web.xlsm,NUEVA PLANTILLA BOL_BP_ENE 2016 web.xlsm,.xlsm,2016-01,2016-01-31,B4,2016-01-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 132
+00_datos_crudos\NUEVA PLANTILLA BOL_BP_FEB 2016 web.xlsm,NUEVA PLANTILLA BOL_BP_FEB 2016 web.xlsm,.xlsm,2016-02,2016-02-29,B4,2016-02-29 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 132
+00_datos_crudos\NUEVA PLANTILLA BOL_BP_MAR 2016 web.xlsm,NUEVA PLANTILLA BOL_BP_MAR 2016 web.xlsm,.xlsm,2016-03,2016-03-31,B4,2016-03-31 00:00:00,BALANCE,nombre_balance,INDICADORES,ok,Registros extraídos: 132
