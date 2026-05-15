@@ -533,7 +533,7 @@ st.markdown(
 
 with st.sidebar:
     st.markdown("### Configuración")
-    api_default = os.getenv("API_SCORE_URL", "http://127.0.0.1:8000")
+    api_default = os.getenv("API_SCORE_URL", "https://inteligencia-financiera-banca-privada.onrender.com")
     api_url = st.text_input("URL API Score", value=api_default)
     st.caption("La pestaña Score Inteligente consume el endpoint `/score` de esta API.")
 
