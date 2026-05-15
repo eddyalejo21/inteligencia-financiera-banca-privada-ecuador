@@ -1269,6 +1269,6 @@ with tab_score:
 
 
 st.caption(
-    "Dashboard alternativo Storytelling. Valores monetarios en millones de USD; porcentajes en valor directo. "
+    "Dashboard Sistema BAncario Financiero. Valores monetarios en millones de USD; porcentajes en valor directo. "
     "El score inteligente se consume desde FastAPI."
 )
